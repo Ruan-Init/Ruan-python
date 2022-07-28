@@ -4,7 +4,7 @@
 
 HELLO THERE 😀
 
-- 👩🏻‍💻 Atualmente aprendendo Python🐍
+- 👩🏻‍💻 Atualmente estudando Python🐍
 - 💬 Me pergunte sobre algo.
 
 
