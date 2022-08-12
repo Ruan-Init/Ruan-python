@@ -5,7 +5,7 @@
 HELLO THERE 😀
 
 - 👩🏻‍💻 Atualmente estudando Python,Javascript,HTML5,CSS3
-- 💬 Me pergunte sobre algo.
+
 
 
 <div align=>
